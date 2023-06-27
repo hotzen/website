@@ -1,3 +1,1 @@
-# Hi
-
-![](rotator.mp4)
+![](rotator.gif)
